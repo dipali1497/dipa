@@ -7,5 +7,5 @@ This is my first repositoy.
 
 ___
 ...
-print("Hello World")
+print('Hello World')
 ...
