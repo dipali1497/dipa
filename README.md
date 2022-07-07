@@ -6,6 +6,6 @@ This is my first repositoy.
 
 
 ___
-...
+---
 print('Hello World')
-...
+---
